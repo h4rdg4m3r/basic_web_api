@@ -1,0 +1,7 @@
+C:\Users\Adam\Desktop\PAI\Labolatorium1\Kidzinski\Kidzinski\bin\Kidzinski.dll.config
+C:\Users\Adam\Desktop\PAI\Labolatorium1\Kidzinski\Kidzinski\bin\Kidzinski.dll
+C:\Users\Adam\Desktop\PAI\Labolatorium1\Kidzinski\Kidzinski\bin\Kidzinski.pdb
+C:\Users\Adam\Desktop\PAI\Labolatorium1\Kidzinski\Kidzinski\obj\Debug\Kidzinski.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\PAI\Labolatorium1\Kidzinski\Kidzinski\obj\Debug\Kidzinski.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\PAI\Labolatorium1\Kidzinski\Kidzinski\obj\Debug\Kidzinski.dll
+C:\Users\Adam\Desktop\PAI\Labolatorium1\Kidzinski\Kidzinski\obj\Debug\Kidzinski.pdb
