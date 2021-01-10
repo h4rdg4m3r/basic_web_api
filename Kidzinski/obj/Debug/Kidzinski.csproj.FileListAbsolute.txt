@@ -1,0 +1,35 @@
+C:\Users\Adam\Desktop\PAI\Labolatorium1\Kidzinski\Kidzinski\bin\Kidzinski.dll.config
+C:\Users\Adam\Desktop\PAI\Labolatorium1\Kidzinski\Kidzinski\bin\Kidzinski.dll
+C:\Users\Adam\Desktop\PAI\Labolatorium1\Kidzinski\Kidzinski\bin\Kidzinski.pdb
+C:\Users\Adam\Desktop\PAI\Labolatorium1\Kidzinski\Kidzinski\obj\Debug\Kidzinski.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\PAI\Labolatorium1\Kidzinski\Kidzinski\obj\Debug\Kidzinski.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\PAI\Labolatorium1\Kidzinski\Kidzinski\obj\Debug\Kidzinski.dll
+C:\Users\Adam\Desktop\PAI\Labolatorium1\Kidzinski\Kidzinski\obj\Debug\Kidzinski.pdb
+C:\Users\Adam\Desktop\PAI\Labolatorium2\Kidzinski\Kidzinski\bin\Kidzinski.dll.config
+C:\Users\Adam\Desktop\PAI\Labolatorium2\Kidzinski\Kidzinski\bin\Kidzinski.dll
+C:\Users\Adam\Desktop\PAI\Labolatorium2\Kidzinski\Kidzinski\bin\Kidzinski.pdb
+C:\Users\Adam\Desktop\PAI\Labolatorium2\Kidzinski\Kidzinski\obj\Debug\Kidzinski.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\PAI\Labolatorium2\Kidzinski\Kidzinski\obj\Debug\Kidzinski.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\PAI\Labolatorium2\Kidzinski\Kidzinski\obj\Debug\Kidzinski.dll
+C:\Users\Adam\Desktop\PAI\Labolatorium2\Kidzinski\Kidzinski\obj\Debug\Kidzinski.pdb
+E:\Chrome DL\Kidzinski\Kidzinski\Kidzinski\bin\Kidzinski.dll.config
+E:\Chrome DL\Kidzinski\Kidzinski\Kidzinski\bin\Kidzinski.dll
+E:\Chrome DL\Kidzinski\Kidzinski\Kidzinski\bin\Kidzinski.pdb
+E:\Chrome DL\Kidzinski\Kidzinski\Kidzinski\obj\Debug\Kidzinski.csprojAssemblyReference.cache
+E:\Chrome DL\Kidzinski\Kidzinski\Kidzinski\obj\Debug\Kidzinski.csproj.CoreCompileInputs.cache
+E:\Chrome DL\Kidzinski\Kidzinski\Kidzinski\obj\Debug\Kidzinski.dll
+E:\Chrome DL\Kidzinski\Kidzinski\Kidzinski\obj\Debug\Kidzinski.pdb
+E:\Chrome DL\Kidzinski2\Kidzinski\Kidzinski\bin\Kidzinski.dll.config
+E:\Chrome DL\Kidzinski2\Kidzinski\Kidzinski\bin\Kidzinski.dll
+E:\Chrome DL\Kidzinski2\Kidzinski\Kidzinski\bin\Kidzinski.pdb
+E:\Chrome DL\Kidzinski2\Kidzinski\Kidzinski\obj\Debug\Kidzinski.csprojAssemblyReference.cache
+E:\Chrome DL\Kidzinski2\Kidzinski\Kidzinski\obj\Debug\Kidzinski.csproj.CoreCompileInputs.cache
+E:\Chrome DL\Kidzinski2\Kidzinski\Kidzinski\obj\Debug\Kidzinski.dll
+E:\Chrome DL\Kidzinski2\Kidzinski\Kidzinski\obj\Debug\Kidzinski.pdb
+C:\Users\Adam\Desktop\PAI\Labolatorium2\Kidzinski\bin\Kidzinski.dll.config
+C:\Users\Adam\Desktop\PAI\Labolatorium2\Kidzinski\bin\Kidzinski.dll
+C:\Users\Adam\Desktop\PAI\Labolatorium2\Kidzinski\bin\Kidzinski.pdb
+C:\Users\Adam\Desktop\PAI\Labolatorium2\Kidzinski\obj\Debug\Kidzinski.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\PAI\Labolatorium2\Kidzinski\obj\Debug\Kidzinski.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\PAI\Labolatorium2\Kidzinski\obj\Debug\Kidzinski.dll
+C:\Users\Adam\Desktop\PAI\Labolatorium2\Kidzinski\obj\Debug\Kidzinski.pdb

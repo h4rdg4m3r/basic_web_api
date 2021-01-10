@@ -1,0 +1,72 @@
+﻿body {
+    position: center;
+    display: grid;
+    height: auto;
+    width: auto;
+    top: 5%;
+}
+
+.auto-style3 {
+    height:600px;
+    width:400px;
+    text-align: left;
+    display: inline-block;
+}
+
+.lista {
+    top: 7%;
+    left: 10px;
+    float: left;
+    border-style:solid;
+    border-color:black;
+    border-width:5px;
+}
+
+.buttons {
+    top: 7%;
+    float: right;
+}
+
+.tytul {
+    font-size: 18px;
+    font-weight: bold;
+    color: green;
+}
+
+.opisy {
+    display: inline-block;
+    font-size: 15px;
+    font-weight: normal;
+    color: blue;
+}
+
+.input {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.input2 {
+    margin-left: 0px;
+    width: 185px;
+}
+
+.input_invalid {
+    color: red;
+}
+
+.auto-style1 {
+    text-align: right;
+}
+
+.auto-style2 {
+    text-align: center;
+}
+
+.central {
+    position: absolute;
+    margin: 0 auto;
+    display: block;
+    left:600px;
+    text-align: right;
+}
